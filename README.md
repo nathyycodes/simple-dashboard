@@ -1,5 +1,4 @@
-# simple-dashboard
-# User Dashboard
+# Simple User Dashboard
 
 A simple React app that fetches and displays users with search functionality.
 
